@@ -1,7 +1,9 @@
 # SyobonActionMono
-Syobon Action original source from author's Geocities site converted to MonoGame (Previously XNA)
+Syobon Action original source from http://www.geocities.co.jp/z_gundam_tanosii converted to MonoGame (Previously XNA)
 
-I converted this code which was originally C(guessing) to C# with XNA. This was obtained from the author's Geocities webstie known as http://www.geocities.co.jp/z_gundam_tanosii. After I converted to XNA, I contacted the author to let him know its been translated over. At the time, he was looking for a language translator for Eryi Action and thought that's what I meant. I sent him the source code in case he wanted to release the original on some Microsoft Platform. In order to preserve things, I figured I would go ahead and conver the XNA source to MonoGame. As you can tell, my conversion was a MVS just to get the game running. A lot of the messages have been converted because my font showed the Japanese fonts as ASCII garbage.  
+I converted this code which was originally C(guessing) to C# using XNA. This was obtained from the geocities webstie known as http://www.geocities.co.jp/z_gundam_tanosii. After I converted to XNA, I contacted the site owner to let him know its been translated over. At the time, he was looking for a language translator for Eryi Action and thought that's what I meant. I sent him the source code in case he wanted to release the original on some Microsoft Platform. 
+
+In order to preserve things, I figured I would go ahead and convert the XNA source to MonoGame. As you can tell, my conversion was a minimal solution just to get the game running. A lot of the messages have been converted because my font showed the Japanese fonts as ASCII garbage.  
   
 Hint: Level Select  
 Press 1 for level 1  
